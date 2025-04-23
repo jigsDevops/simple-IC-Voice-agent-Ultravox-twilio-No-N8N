@@ -1,0 +1,23 @@
+{
+  "name": "twilio-ultravox-app",
+  "version": "1.0.0",
+  "description": "Twilio integration with Ultravox AI",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "twilio",
+    "ultravox",
+    "voice",
+    "ai"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "twilio": "^5.2.2"
+  }
+}
